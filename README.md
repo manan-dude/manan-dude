@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
+<h4>Communities that I have joined :</h4>
+![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manan-jain-31b99b1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan jain" height="30" width="40" /></a>
