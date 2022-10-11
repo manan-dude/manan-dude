@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-<h4>Communities that I have joined :</h4>
-<p>![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)</p>
 
 
 <h3 align="left">Connect with me:</h3>
