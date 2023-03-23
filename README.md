@@ -1,5 +1,6 @@
 <p align="center"><a href="https://manan-dude.github.io"><img width="80%" alt="Hello, I'm Manan. I do Machine Learning!" src="./assets/gh-readme-header.png" /></a></p>
 -:octocat:[My Resume](https://drive.google.com/file/d/1cVIMtRQ97spxJvGEL_QWFUtpP7K294S2/view?usp=sharing)
+:octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
 
 
 
