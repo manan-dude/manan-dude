@@ -1,4 +1,4 @@
-![](https://tenor.com/view/cool-text-animated-text-change-color-gif-17680461)
+![](https://cdn.dribbble.com/users/2092880/screenshots/10707462/media/af8ca32ec0e9a5d9f1b2fc367c3beab2.gif)
 
 
 
