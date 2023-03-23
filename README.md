@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manan Jain</h1>
-<h3 align="center">A Computer Science Student.</h3>
+<p align="center"><a href="https://manan-dude.github.io"><img width="80%" alt="Hello, I'm Manan. I do Machine Learning!" src="./assets/gh-readme-header.png" /></a></p>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="400" />
 
