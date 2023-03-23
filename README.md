@@ -1,4 +1,4 @@
-
+![](https://tenor.com/view/cool-text-animated-text-change-color-gif-17680461)
 
 
 
