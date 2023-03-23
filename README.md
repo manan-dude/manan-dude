@@ -1,6 +1,6 @@
 <p align="center"><a href="https://manan-dude.github.io"><img width="80%" alt="Hello, I'm Manan. I do Machine Learning!" src="./assets/gh-readme-header.png" /></a></p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="400" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-dude&label=Profile%20views&color=0e75b6&style=flat" alt="manan-dude" /> </p>
 
