@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan Jain</h1>
 <h3 align="center">A Computer Science Student.</h3>
 
-<img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-dude&label=Profile%20views&color=0e75b6&style=flat" alt="manan-dude" /> </p>
 
