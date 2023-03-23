@@ -1,5 +1,5 @@
-![500x500](https://cdn.dribbble.com/users/2092880/screenshots/10707462/media/af8ca32ec0e9a5d9f1b2fc367c3beab2.gif)
-<img src="https://cdn.dribbble.com/users/2092880/screenshots/10707462/media/af8ca32ec0e9a5d9f1b2fc367c3beab2.gif" width="250" height="250"/>
+
+<img src="https://cdn.dribbble.com/users/2092880/screenshots/10707462/media/af8ca32ec0e9a5d9f1b2fc367c3beab2.gif" width="500" height="500"/>
 
 
 
