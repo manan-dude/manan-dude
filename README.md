@@ -114,6 +114,56 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
 </p>
 
+## 🎯 Hackathon Timeline
+
+<table>
+<tr><td>🥇</td><td><b>Adobe India Hackathon</b></td><td>Winner</td><td><!-- month/year --></td></tr>
+<tr><td>🥇</td><td><b>Government of India AI Hackathon</b></td><td>Winner</td><td><!-- month/year --></td></tr>
+<tr><td>🥈</td><td><b>Google Cloud GenAI Hackathon</b></td><td>Finalist</td><td><!-- month/year --></td></tr>
+<tr><td>🏅</td><td><b>Claude Impact Lab</b></td><td>Finalist</td><td><!-- month/year --></td></tr>
+<tr><td>🏆</td><td><!-- add more hackathons here --></td><td></td><td></td></tr>
+</table>
+
+> ✏️ Fill in the dates and add any more hackathons/events you've competed in — same row format.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
+
+## 📜 Certifications
+
+<table>
+<tr>
+<td align="center" width="220">
+
+**<!-- Certification Name -->**
+<!-- Issuer, e.g. AWS -->
+[🔗 View Credential](#)
+
+</td>
+<td align="center" width="220">
+
+**<!-- Certification Name -->**
+<!-- Issuer, e.g. Azure -->
+[🔗 View Credential](#)
+
+</td>
+<td align="center" width="220">
+
+**<!-- Certification Name -->**
+<!-- Issuer, e.g. Google Cloud -->
+[🔗 View Credential](#)
+
+</td>
+</tr>
+</table>
+
+> ✏️ Replace each cell with your actual cert name, issuing body, and a link to the credential (Credly/LinkedIn/issuer page work well). Add more `<td>` cells for additional certs.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
+
 ## 🤝 Collaboration
 
 I'm open to collaborating on:
