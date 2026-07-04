@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/DIVISION-AI%20%26%20AGENTIC%20SYSTEMS-FFD700?style=for-the-badge&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-ED1D24?style=for-the-badge&labelColor=1a1a1a" />
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2200&pause=900&color=FFD700&background=1A1A1A00&center=true&vCenter=true&width=750&lines=INITIALIZING+AGENT+FILE...;LOADING+SUIT+SYSTEMS...;AI+ENGINEER+%7C+AGENTIC+SYSTEMS+%7C+RAG;MULTIPLE+NATIONAL+HACKATHON+WINNER+%F0%9F%8F%86;MISSION+STATUS%3A+ALWAYS+ONLINE" />
+
 </div>
 
 <br>
@@ -15,6 +19,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
 ## 🛡️ FIELD DOSSIER
+
+<table>
+<tr>
+<td width="15%" align="center" valign="middle">
+<img src="https://cdn-icons-png.flaticon.com/512/2382/2382461.png" width="70"/>
+</td>
+<td width="70%" valign="top">
 
 > **Codename:** Manan Jain
 > **Specialty:** AI Engineering — Agentic Systems, RAG, Knowledge Graphs
@@ -25,6 +36,13 @@
 - 📚 &nbsp;Fine-tuning open-source LLMs — Qwen, Llama
 - 🧠 &nbsp;RAG &nbsp;·&nbsp; Knowledge Graphs &nbsp;·&nbsp; Vector Databases
 - ☁️ &nbsp;AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; GCP
+
+</td>
+<td width="15%" align="center" valign="middle">
+<img src="https://cdn-icons-png.flaticon.com/512/2382/2382461.png" width="70"/>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
