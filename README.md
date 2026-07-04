@@ -1,184 +1,165 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manan%20Jain&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
-</p>
+<div align="center">
 
-<h3 align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=3&width=100%" />
 
-`> Hey there, I'm Manan Jain`
+<br>
 
-</h3>
+<sub>манан · 만안 · マナン</sub>
 
-<p align="center">
-「 AI Engineer building Agentic AI systems, RAG pipelines, and production LLM infrastructure 」
-</p>
+# 満 MANAN JAIN
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+GenAI+%7C+Agentic+AI;RAG+%2B+Knowledge+Graphs+%2B+MCP;LangGraph+%7C+CrewAI+%7C+FastAPI;Multiple+National+Hackathon+Winner+%F0%9F%8F%86" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:0d0d0d&height=3&width=100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
+<br>
 
-## 🧬 About
+<sub>「 A I &nbsp; E N G I N E E R &nbsp; ・ &nbsp; B U I L D E R &nbsp; O F &nbsp; A G E N T I C &nbsp; S Y S T E M S 」</sub>
 
-- 💼 AI Engineer — Agentic AI, RAG, and Full-Stack Development
-- 🤖 Multi-agent systems with **LangGraph**, **CrewAI**, and **MCP**
-- 📚 Fine-tuning open-source LLMs (**Qwen**, **Llama**)
-- 🧠 RAG • Knowledge Graphs • Vector Databases
-- ☁️ AWS | Azure | GCP
-- 🌱 Currently deep in agentic system design
+<br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&duration=3500&pause=1200&color=8B0000&center=true&vCenter=true&width=650&lines=%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80+%E2%80%94+Knowledge+into+Action;RAG+%2B+Knowledge+Graphs+%2B+Agentic+Workflows;LangGraph+%C2%B7+CrewAI+%C2%B7+FastAPI+%C2%B7+MCP" />
 
-## 🛠 Tech Grid
+</div>
 
-<table align="center">
-<tr>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" /><br>Python</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" /><br>C++</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" /><br>PyTorch</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" /><br>TensorFlow</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" /><br>FastAPI</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" /><br>React</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" /><br>Node.js</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" /><br>MongoDB</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" /><br>MySQL</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" /><br>AWS</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" /><br>Azure</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" /><br>GCP</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" /><br>Docker</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" /><br>Kubernetes</td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" /><br>OpenCV</td>
-</tr>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
+
+<br>
+
+<table align="center" width="100%">
+<tr><td>
+
+### 卷一 · Chapter I — 自序 &nbsp;/&nbsp; Preface
+
+Building production-grade AI systems powered by **LLMs**, **Knowledge Graphs**, and **Agentic Workflows**. An enthusiast of modern frameworks, science fiction, and the quiet discipline of good engineering.
+
+&nbsp;&nbsp;&nbsp;&nbsp;· 💼 &nbsp;AI Engineer — Agentic AI, RAG, Full-Stack Systems
+&nbsp;&nbsp;&nbsp;&nbsp;· 🤖 &nbsp;Multi-agent orchestration with LangGraph, CrewAI, MCP
+&nbsp;&nbsp;&nbsp;&nbsp;· 📚 &nbsp;Fine-tuning open-source LLMs — Qwen, Llama
+&nbsp;&nbsp;&nbsp;&nbsp;· 🧠 &nbsp;RAG &nbsp;·&nbsp; Knowledge Graphs &nbsp;·&nbsp; Vector Databases
+&nbsp;&nbsp;&nbsp;&nbsp;· ☁️ &nbsp;AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; GCP
+
+</td></tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
 
-## 🧪 Featured Projects
+### 卷二 · Chapter II — 器 &nbsp;/&nbsp; Instruments
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🤖 **Telecom Copilot** | Production AI copilot for telecom engineers | LoRA-tuned Qwen, Hybrid RAG, Knowledge Graph, MCP Server, Voice Input |
-| 📰 **TruthTell** | AI-powered fake news detection | Gemini, OCR, Whisper, RAG, Explainable AI |
-| 📄 **Resume Builder** | Generates professional resumes | Adobe PDF Services API, Express, React |
-| 🔍 **QueryFusion** | Chrome extension — search multiple AI providers at once | Gemini, Ollama, Google, YouTube |
-| 📊 **ETMS** | Employee Training Management System | MERN, Snowflake, ML, Power BI |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
-
-## 📊 Vital Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manan-dude&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manan-dude&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-dude&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manan-dude&label=PROFILE+VIEWS&color=8a2be2&style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manan-dude&theme=radical&no-frame=true&row=1&column=6" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
-
-## 🏆 Achievements
-
-🥇 Adobe India Hackathon — **Winner**
-🥇 Government of India AI Hackathon — **Winner**
-🥈 Google Cloud GenAI Hackathon — **Finalist**
-🏅 Claude Impact Lab — **Finalist**
-🏆 Multiple national AI competitions — **Top Teams**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
-
-## 🎯 Hackathon Timeline
-
-<table>
-<tr><td>🥇</td><td><b>Adobe India Hackathon</b></td><td>Winner</td><td><!-- month/year --></td></tr>
-<tr><td>🥇</td><td><b>Government of India AI Hackathon</b></td><td>Winner</td><td><!-- month/year --></td></tr>
-<tr><td>🥈</td><td><b>Google Cloud GenAI Hackathon</b></td><td>Finalist</td><td><!-- month/year --></td></tr>
-<tr><td>🏅</td><td><b>Claude Impact Lab</b></td><td>Finalist</td><td><!-- month/year --></td></tr>
-<tr><td>🏆</td><td><!-- add more hackathons here --></td><td></td><td></td></tr>
-</table>
-
-> ✏️ Fill in the dates and add any more hackathons/events you've competed in — same row format.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
-
-## 📜 Certifications
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="220">
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/><br><sub>Python</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/><br><sub>C++</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42"/><br><sub>PyTorch</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42"/><br><sub>TensorFlow</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42"/><br><sub>FastAPI</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/><br><sub>React</sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/><br><sub>Node.js</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/><br><sub>MongoDB</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/><br><sub>MySQL</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/><br><sub>AWS</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/><br><sub>Docker</sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42"/><br><sub>OpenCV</sub></td>
+</tr>
+</table>
 
-**<!-- Certification Name -->**
-<!-- Issuer, e.g. AWS -->
-[🔗 View Credential](#)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
+
+### 卷三 · Chapter III — 作品 &nbsp;/&nbsp; Selected Works
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**印 · Telecom Copilot**
+Production AI copilot for telecom engineers.
+`LoRA-Qwen` `Hybrid RAG` `Knowledge Graph` `MCP` `Voice`
 
 </td>
-<td align="center" width="220">
+<td width="50%" valign="top">
 
-**<!-- Certification Name -->**
-<!-- Issuer, e.g. Azure -->
-[🔗 View Credential](#)
+**印 · TruthTell**
+AI-powered fake news detection engine.
+`Gemini` `OCR` `Whisper` `RAG` `Explainable AI`
 
 </td>
-<td align="center" width="220">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**<!-- Certification Name -->**
-<!-- Issuer, e.g. Google Cloud -->
-[🔗 View Credential](#)
+**印 · Resume Builder**
+Generates professional resumes on demand.
+`Adobe PDF API` `Express` `React`
+
+</td>
+<td width="50%" valign="top">
+
+**印 · QueryFusion**
+Chrome extension — query multiple AI providers at once.
+`Gemini` `Ollama` `Google` `YouTube`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**印 · ETMS**
+Employee Training Management System.
+`MERN` `Snowflake` `ML` `Power BI`
+
+</td>
+<td width="50%" valign="top">
+
+**印 · Neural-Networks**
+Notebooks on neural network fundamentals.
+`Jupyter` `Python`
 
 </td>
 </tr>
 </table>
 
-> ✏️ Replace each cell with your actual cert name, issuing body, and a link to the credential (Credly/LinkedIn/issuer page work well). Add more `<td>` cells for additional certs.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
-</p>
+### 卷四 · Chapter IV — 印records &nbsp;/&nbsp; Ledger
 
-## 🤝 Collaboration
+<div align="center">
 
-I'm open to collaborating on:
-- Agentic AI & multi-agent orchestration
-- RAG / Knowledge Graph systems
-- Full-stack AI product builds
+<img src="https://streak-stats.demolab.com/?user=manan-dude&theme=dark&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF&hide_border=true" />
 
-## 📫 Contact
+<br>
 
-<p align="left">
-<a href="https://manan-portfolio.onrender.com/" target="blank"><img src="https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/manan-jain-31b99b1b6" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/manan_dude" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=manan-dude&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-dude&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=8B0000&text_color=FFFFFF" height="165" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-000000?style=for-the-badge&labelColor=8B0000&color=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=manan-dude&style=for-the-badge&color=8b0000&label=" height="28"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
+
+<div align="center">
+
+### 尾 &nbsp;/&nbsp; Colophon
+
+<a href="https://manan-portfolio.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&labelColor=8B0000" /></a>
+<a href="https://www.linkedin.com/in/manan-jain-31b99b1b6"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&labelColor=8B0000" /></a>
+<a href="https://instagram.com/manan_dude"><img src="https://img.shields.io/badge/INSTAGRAM-0D0D0D?style=for-the-badge&labelColor=8B0000" /></a>
+
+<br><br>
+
+<sub>手写代码，静待花开 &nbsp;·&nbsp; code by hand, let it bloom in its own time</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:0d0d0d&height=3&width=100%" />
+
+</div>
