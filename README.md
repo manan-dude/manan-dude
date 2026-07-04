@@ -184,9 +184,7 @@ Notebooks on neural network fundamentals.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
-<div align="center">
 
 ## 📡 COMMS LINK
 
