@@ -20,35 +20,47 @@
 
 ## 🛡️ FIELD DOSSIER
 
+<div align="center">
+
 <table>
-<tr>
-<td width="15%" align="center" valign="middle">
-<img src="https://cdn-icons-png.flaticon.com/512/2382/2382461.png" width="70"/>
-</td>
-<td width="70%" valign="top">
+<tr><td width="100%">
 
-> **Codename:** Manan Jain
-> **Specialty:** AI Engineering — Agentic Systems, RAG, Knowledge Graphs
-> **Origin story:** Enthusiast of modern frameworks, sci-fi, and building things that shouldn't work but do.
+<h3 align="center">— AGENT STAT CARD —</h3>
 
-- 💼 &nbsp;AI Engineer — building Agentic AI Systems, RAG pipelines, LLM infra
-- 🤖 &nbsp;Multi-agent orchestration with LangGraph, CrewAI, MCP
-- 📚 &nbsp;Fine-tuning open-source LLMs — Qwen, Llama
-- 🧠 &nbsp;RAG &nbsp;·&nbsp; Knowledge Graphs &nbsp;·&nbsp; Vector Databases
-- ☁️ &nbsp;AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; GCP
+| | |
+|---|---|
+| **CODENAME** | Manan Jain |
+| **CLASS** | AI Engineer |
+| **SPECIALIZATION** | Agentic Systems &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Knowledge Graphs |
+| **POWER SOURCE** | LLMs fine-tuned on pure curiosity |
+| **ALLEGIANCE** | Open Source &nbsp;·&nbsp; Sci-Fi &nbsp;·&nbsp; Clean Architecture |
+| **ORIGIN STORY** | Enthusiast of modern frameworks who builds things that shouldn't work — but do |
 
-</td>
-<td width="15%" align="center" valign="middle">
-<img src="https://cdn-icons-png.flaticon.com/512/2382/2382461.png" width="70"/>
-</td>
-</tr>
+</td></tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/badge/💼_AI_ENGINEER-Agentic_Systems_%7C_RAG_%7C_LLM_Infra-ED1D24?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<img src="https://img.shields.io/badge/🤖_ORCHESTRATION-LangGraph_%7C_CrewAI_%7C_MCP-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<img src="https://img.shields.io/badge/📚_FINE--TUNING-Qwen_%7C_Llama-ED1D24?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<img src="https://img.shields.io/badge/🧠_KNOWLEDGE-RAG_%7C_Knowledge_Graphs_%7C_Vector_DBs-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<img src="https://img.shields.io/badge/☁️_CLOUD-AWS_%7C_Azure_%7C_GCP-ED1D24?style=for-the-badge&labelColor=1a1a1a" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
 ## ⚙️ SUIT SYSTEMS <sub>(Tech Arsenal)</sub>
 
 <div align="center">
+
+<h4>🧬 Core Stack</h4>
+
 <table>
 <tr>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/><br><sub>Python</sub></td>
@@ -67,6 +79,31 @@
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42"/><br><sub>OpenCV</sub></td>
 </tr>
 </table>
+
+<br>
+
+<h4>🧠 AI / Agentic Arsenal</h4>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=FFD700&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=FFD700&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&labelColor=ED1D24" />
+<br><br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=ED1D24" />
+<br><br>
+<img src="https://img.shields.io/badge/RAG-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Knowledge_Graphs-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/LoRA-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Unsloth-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<br><br>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&labelColor=ED1D24" />
+<img src="https://img.shields.io/badge/DeepEval-8A2BE2?style=for-the-badge&labelColor=ED1D24" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
