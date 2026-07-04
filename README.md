@@ -134,19 +134,14 @@ Notebooks exploring neural net fundamentals
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manan-dude&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-dude&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./profile/metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manan-dude&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manan-dude&theme=algolia&no-frame=true&row=1&column=6" alt="manan-dude trophies" />
-  </a>
-</p>
+> These are generated automatically once a day by a GitHub Action and committed straight into this repo as static SVGs — so they always render, with zero dependency on third-party servers being up. See setup instructions below.
 
 ---
 
