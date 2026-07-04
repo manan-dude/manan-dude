@@ -1,53 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:8b0000&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ED1D24,100:1a1a1a&height=200&section=header&text=MANAN%20JAIN&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=40" />
 
-<br>
+<sub>★彡 CLASSIFIED PERSONNEL FILE 彡★</sub>
 
-<sub>манан · 만안 · マナン</sub>
-
-# 満 MANAN JAIN
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:0d0d0d&height=3&width=100%" />
-
-<br>
-
-<sub>「 A I &nbsp; E N G I N E E R &nbsp; ・ &nbsp; B U I L D E R &nbsp; O F &nbsp; A G E N T I C &nbsp; S Y S T E M S 」</sub>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&duration=3500&pause=1200&color=8B0000&center=true&vCenter=true&width=650&lines=%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80+%E2%80%94+Knowledge+into+Action;RAG+%2B+Knowledge+Graphs+%2B+Agentic+Workflows;LangGraph+%C2%B7+CrewAI+%C2%B7+FastAPI+%C2%B7+MCP" />
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL%207-ED1D24?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/DIVISION-AI%20%26%20AGENTIC%20SYSTEMS-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-ED1D24?style=for-the-badge&labelColor=1a1a1a" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
-<br>
+## 🛡️ FIELD DOSSIER
 
-<table align="center" width="100%">
-<tr><td>
+> **Codename:** Manan Jain
+> **Specialty:** AI Engineering — Agentic Systems, RAG, Knowledge Graphs
+> **Origin story:** Enthusiast of modern frameworks, sci-fi, and building things that shouldn't work but do.
 
-### 卷一 · Chapter I — 自序 &nbsp;/&nbsp; Preface
+- 💼 &nbsp;AI Engineer — building Agentic AI Systems, RAG pipelines, LLM infra
+- 🤖 &nbsp;Multi-agent orchestration with LangGraph, CrewAI, MCP
+- 📚 &nbsp;Fine-tuning open-source LLMs — Qwen, Llama
+- 🧠 &nbsp;RAG &nbsp;·&nbsp; Knowledge Graphs &nbsp;·&nbsp; Vector Databases
+- ☁️ &nbsp;AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; GCP
 
-Building production-grade AI systems powered by **LLMs**, **Knowledge Graphs**, and **Agentic Workflows**. An enthusiast of modern frameworks, science fiction, and the quiet discipline of good engineering.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;· 💼 &nbsp;AI Engineer — Agentic AI, RAG, Full-Stack Systems
-&nbsp;&nbsp;&nbsp;&nbsp;· 🤖 &nbsp;Multi-agent orchestration with LangGraph, CrewAI, MCP
-&nbsp;&nbsp;&nbsp;&nbsp;· 📚 &nbsp;Fine-tuning open-source LLMs — Qwen, Llama
-&nbsp;&nbsp;&nbsp;&nbsp;· 🧠 &nbsp;RAG &nbsp;·&nbsp; Knowledge Graphs &nbsp;·&nbsp; Vector Databases
-&nbsp;&nbsp;&nbsp;&nbsp;· ☁️ &nbsp;AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; GCP
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
-
-### 卷二 · Chapter II — 器 &nbsp;/&nbsp; Instruments
+## ⚙️ SUIT SYSTEMS <sub>(Tech Arsenal)</sub>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/><br><sub>Python</sub></td>
@@ -66,25 +49,24 @@ Building production-grade AI systems powered by **LLMs**, **Knowledge Graphs**, 
 <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42"/><br><sub>OpenCV</sub></td>
 </tr>
 </table>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
-### 卷三 · Chapter III — 作品 &nbsp;/&nbsp; Selected Works
+## 📁 MISSION LOG <sub>(Featured Projects)</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**印 · Telecom Copilot**
+**⭐ MISSION: TELECOM COPILOT**
 Production AI copilot for telecom engineers.
 `LoRA-Qwen` `Hybrid RAG` `Knowledge Graph` `MCP` `Voice`
 
 </td>
 <td width="50%" valign="top">
 
-**印 · TruthTell**
+**⭐ MISSION: TRUTHTELL**
 AI-powered fake news detection engine.
 `Gemini` `OCR` `Whisper` `RAG` `Explainable AI`
 
@@ -93,14 +75,14 @@ AI-powered fake news detection engine.
 <tr>
 <td width="50%" valign="top">
 
-**印 · Resume Builder**
+**⭐ MISSION: RESUME BUILDER**
 Generates professional resumes on demand.
 `Adobe PDF API` `Express` `React`
 
 </td>
 <td width="50%" valign="top">
 
-**印 · QueryFusion**
+**⭐ MISSION: QUERYFUSION**
 Chrome extension — query multiple AI providers at once.
 `Gemini` `Ollama` `Google` `YouTube`
 
@@ -109,14 +91,14 @@ Chrome extension — query multiple AI providers at once.
 <tr>
 <td width="50%" valign="top">
 
-**印 · ETMS**
+**⭐ MISSION: ETMS**
 Employee Training Management System.
 `MERN` `Snowflake` `ML` `Power BI`
 
 </td>
 <td width="50%" valign="top">
 
-**印 · Neural-Networks**
+**⭐ MISSION: NEURAL-NETWORKS**
 Notebooks on neural network fundamentals.
 `Jupyter` `Python`
 
@@ -124,42 +106,47 @@ Notebooks on neural network fundamentals.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
-### 卷四 · Chapter IV — 印records &nbsp;/&nbsp; Ledger
+## 📊 POWER LEVELS <sub>(GitHub Stats)</sub>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=manan-dude&theme=dark&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=manan-dude&theme=dark&background=1A1A1A&ring=ED1D24&fire=FFD700&currStreakLabel=FFD700&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manan-dude&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-dude&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=8B0000&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=manan-dude&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=FFD700&icon_color=ED1D24&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-dude&layout=compact&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=FFD700&text_color=FFFFFF" height="165" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-000000?style=for-the-badge&labelColor=8B0000&color=0D0D0D" />
-<img src="https://komarev.com/ghpvc/?username=manan-dude&style=for-the-badge&color=8b0000&label=" height="28"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=manan-dude&theme=marvel-inspiration&no-frame=true&row=1&column=6" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=manan-dude&style=for-the-badge&color=ED1D24&label=RECON+COUNT" height="28"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:FFD700,100:ED1D24&height=4&width=100%" />
 
 <div align="center">
 
-### 尾 &nbsp;/&nbsp; Colophon
+## 📡 COMMS LINK
 
-<a href="https://manan-portfolio.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&labelColor=8B0000" /></a>
-<a href="https://www.linkedin.com/in/manan-jain-31b99b1b6"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&labelColor=8B0000" /></a>
-<a href="https://instagram.com/manan_dude"><img src="https://img.shields.io/badge/INSTAGRAM-0D0D0D?style=for-the-badge&labelColor=8B0000" /></a>
-
-<br><br>
-
-<sub>手写代码，静待花开 &nbsp;·&nbsp; code by hand, let it bloom in its own time</sub>
+<a href="https://manan-portfolio.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&labelColor=ED1D24&logoColor=FFD700" /></a>
+<a href="https://www.linkedin.com/in/manan-jain-31b99b1b6"><img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&labelColor=ED1D24" /></a>
+<a href="https://instagram.com/manan_dude"><img src="https://img.shields.io/badge/INSTAGRAM-1A1A1A?style=for-the-badge&labelColor=ED1D24" /></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:0d0d0d&height=3&width=100%" />
+<sub>★彡 "Every great system starts with someone willing to debug it at 3 AM." 彡★</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,100:ED1D24&height=120&section=footer" />
 
 </div>
