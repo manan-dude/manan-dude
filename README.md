@@ -171,8 +171,6 @@ Notebooks on neural network fundamentals.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manan-dude&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=FFD700&icon_color=ED1D24&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-dude&layout=compact&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=FFD700&text_color=FFFFFF" height="165" />
 
 <br><br>
 
