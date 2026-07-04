@@ -1,156 +1,134 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+GenAI+%7C+Agentic+AI;RAG+%2B+Knowledge+Graphs+%2B+MCP;FastAPI+%2B+Python+%2B+React;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manan%20Jain&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<h3 align="center">
+
+`> Hey there, I'm Manan Jain`
+
+</h3>
+
+<p align="center">
+「 AI Engineer building Agentic AI systems, RAG pipelines, and production LLM infrastructure 」
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manan-dude&label=Profile%20views&color=8a2be2&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/manan-jain-31b99b1b6"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://manan-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-8a2be2?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+GenAI+%7C+Agentic+AI;RAG+%2B+Knowledge+Graphs+%2B+MCP;LangGraph+%7C+CrewAI+%7C+FastAPI;Multiple+National+Hackathon+Winner+%F0%9F%8F%86" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
 
-### 👋 Hi, I'm Manan Jain
+## 🧬 About
 
-Building production-grade AI systems powered by **LLMs, Knowledge Graphs, and Agentic Workflows.** Enthusiast of modern frameworks, sci-fi movies, and the occasional bit of writing.
-
-- 💼 AI Engineer, focused on **Agentic AI**, **RAG**, and **Full Stack Development**
-- 🤖 Building multi-agent systems with **LangGraph**, **CrewAI**, and **MCP**
-- 📚 Fine-tuning open source LLMs (**Qwen**, **Llama**)
+- 💼 AI Engineer — Agentic AI, RAG, and Full-Stack Development
+- 🤖 Multi-agent systems with **LangGraph**, **CrewAI**, and **MCP**
+- 📚 Fine-tuning open-source LLMs (**Qwen**, **Llama**)
 - 🧠 RAG • Knowledge Graphs • Vector Databases
 - ☁️ AWS | Azure | GCP
-- 🌱 Currently deep in **Agentic AI systems design**
+- 🌱 Currently deep in agentic system design
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
 
-### 🏆 Achievements
+## 🛠 Tech Grid
 
-| | |
-|---|---|
-| 🥇 | Adobe India Hackathon — **Winner** |
-| 🥇 | Government of India AI Hackathon — **Winner** |
-| 🥈 | Google Cloud GenAI Hackathon — **Finalist** |
-| 🏅 | Claude Impact Lab — **Finalist** |
-| 🏆 | Multiple national AI competitions — **Top Teams** |
-
----
-
-### 🔥 Featured Projects
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-**🤖 Telecom Copilot**
-Production AI copilot for telecom engineers
-`LoRA-tuned Qwen` `Hybrid RAG` `Knowledge Graph` `MCP Server` `Voice Input` `Mermaid Diagrams`
-
-</td>
-<td width="50%">
-
-**📰 TruthTell**
-AI-powered fake news detection
-`Gemini` `OCR` `Whisper` `RAG` `Explainable AI`
-
-</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" /><br>Python</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" /><br>C++</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" /><br>PyTorch</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" /><br>TensorFlow</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" /><br>FastAPI</td>
 </tr>
 <tr>
-<td width="50%">
-
-**📄 Resume Builder**
-Generate professional resumes on the fly
-`Adobe PDF Services API` `Express` `React`
-
-</td>
-<td width="50%">
-
-**🔍 QueryFusion**
-Chrome extension to search multiple AI providers at once
-`Gemini` `Ollama` `Google` `YouTube`
-
-</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" /><br>React</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" /><br>Node.js</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" /><br>MongoDB</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" /><br>MySQL</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" /><br>AWS</td>
 </tr>
 <tr>
-<td width="50%">
-
-**📊 ETMS**
-Employee Training Management System
-`MERN` `Snowflake` `Machine Learning` `Power BI`
-
-</td>
-<td width="50%">
-
-**🧠 Neural-Networks**
-Notebooks exploring neural net fundamentals
-`Jupyter` `Python`
-
-</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" /><br>Azure</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" /><br>GCP</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" /><br>Docker</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" /><br>Kubernetes</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" /><br>OpenCV</td>
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
 
-### 💻 Tech Stack
+## 🧪 Featured Projects
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B6B?style=flat-square)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-4B0082?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Backend & Frontend**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 **Telecom Copilot** | Production AI copilot for telecom engineers | LoRA-tuned Qwen, Hybrid RAG, Knowledge Graph, MCP Server, Voice Input |
+| 📰 **TruthTell** | AI-powered fake news detection | Gemini, OCR, Whisper, RAG, Explainable AI |
+| 📄 **Resume Builder** | Generates professional resumes | Adobe PDF Services API, Express, React |
+| 🔍 **QueryFusion** | Chrome extension — search multiple AI providers at once | Gemini, Ollama, Google, YouTube |
+| 📊 **ETMS** | Employee Training Management System | MERN, Snowflake, ML, Power BI |
 
 <p align="center">
-  <img src="./profile/metrics.svg" alt="GitHub metrics" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
+
+## 📊 Vital Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manan-dude&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manan-dude&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-dude&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
-> These are generated automatically once a day by a GitHub Action and committed straight into this repo as static SVGs — so they always render, with zero dependency on third-party servers being up. See setup instructions below.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manan-dude&label=PROFILE+VIEWS&color=8a2be2&style=flat-square" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manan-dude&theme=radical&no-frame=true&row=1&column=6" />
+  </a>
+</p>
 
-### 🌐 Connect
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
+
+## 🏆 Achievements
+
+🥇 Adobe India Hackathon — **Winner**
+🥇 Government of India AI Hackathon — **Winner**
+🥈 Google Cloud GenAI Hackathon — **Finalist**
+🏅 Claude Impact Lab — **Finalist**
+🏆 Multiple national AI competitions — **Top Teams**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=3&section=header" width="100%"/>
+</p>
+
+## 🤝 Collaboration
+
+I'm open to collaborating on:
+- Agentic AI & multi-agent orchestration
+- RAG / Knowledge Graph systems
+- Full-stack AI product builds
+
+## 📫 Contact
 
 <p align="left">
-<a href="https://www.linkedin.com/in/manan-jain-31b99b1b6" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/manan_dude" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://manan-portfolio.onrender.com/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" height="30" width="30" /></a>
+<a href="https://manan-portfolio.onrender.com/" target="blank"><img src="https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manan-jain-31b99b1b6" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/manan_dude" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to collabs on AI/agentic projects 🚀</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
